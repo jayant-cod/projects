@@ -1,0 +1,2 @@
+# projects
+These are my projects cum codes of different languages. These contains calculator which i developed with the help of flutter(app development) which is not complete thus i'm further working on it to make it better. The second one is face detection which also recognizes face well it has three components face detection, training datesets and face detection which should be run according to order which i told you, you can understand the code easily... and the third one is Brick game which i created with Java language and thats all for now... :)
